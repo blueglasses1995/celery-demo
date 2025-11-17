@@ -27,6 +27,13 @@ Celeryの内部実装と技術的原理を、テキストベースの図解を�
    - プリフェッチとACK
    - QoS管理
 
+4. **[マイクロサービスアーキテクチャ設計パターン](./04_microservices_architecture.md)**
+   - タスクベース・マイクロサービス
+   - イベント駆動アーキテクチャ
+   - Sagaパターン
+   - CQRS + Event Sourcing
+   - Redis vs RabbitMQ選択ガイド
+
 ## 🎯 対象読者
 
 - Celeryの内部実装に興味がある開発者
